@@ -1,0 +1,15 @@
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\bin\Debug\net6.0\hata.exe
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\bin\Debug\net6.0\hata.deps.json
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\bin\Debug\net6.0\hata.runtimeconfig.json
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\bin\Debug\net6.0\hata.dll
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\bin\Debug\net6.0\hata.pdb
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\obj\Debug\net6.0\hata.csproj.AssemblyReference.cache
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\obj\Debug\net6.0\hata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\obj\Debug\net6.0\hata.AssemblyInfoInputs.cache
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\obj\Debug\net6.0\hata.AssemblyInfo.cs
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\obj\Debug\net6.0\hata.csproj.CoreCompileInputs.cache
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\obj\Debug\net6.0\hata.dll
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\obj\Debug\net6.0\refint\hata.dll
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\obj\Debug\net6.0\hata.pdb
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\obj\Debug\net6.0\hata.genruntimeconfig.cache
+C:\Users\cmd12\OneDrive\Desktop\Pratikler\hata\obj\Debug\net6.0\ref\hata.dll
